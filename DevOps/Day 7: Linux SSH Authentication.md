@@ -98,6 +98,9 @@ This method is ideal for automating multi-server access in DevOps environments.
 
 ---
 
+<img width="1712" height="826" alt="image" src="https://github.com/user-attachments/assets/a04dec7e-515c-4228-afdd-5e84806a7b3e" />
+
+
 ### **script.sh**
 
 ```bash
@@ -171,6 +174,8 @@ ssh tony@stapp01
 ssh steve@stapp02
 ssh banner@stapp03
 ```
+<img width="1002" height="666" alt="image" src="https://github.com/user-attachments/assets/68259366-c03f-43a1-a3fd-48a9829a9c57" />
+
 
 ---
 
@@ -199,3 +204,8 @@ chmod 600 ~/.ssh/authorized_keys
 ```
 
 Both methods achieve a secure, scalable, and automation-ready SSH environment.!
+
+
+---
+
+<img width="973" height="593" alt="image" src="https://github.com/user-attachments/assets/9a0ea214-ddf7-4038-858b-2958651ee7e4" />
